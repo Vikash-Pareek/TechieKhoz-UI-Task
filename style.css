@@ -475,11 +475,7 @@ button,
     }
 
     .b2c-btns-container button {
-        /* background-color: transparent;
-        color: #023E8A; */
         font-size: 0.8rem;
-        /* text-decoration: underline; */
         padding: 0.5rem;
-        /* border: 2px solid #ADB5BD; */
     }
 }
